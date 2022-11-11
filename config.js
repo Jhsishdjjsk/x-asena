@@ -27,11 +27,11 @@ module.exports = {
       : "^[,]",
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: "master",
-  PACKNAME: process.env.PACKNAME || "X-asena",
+  PACKNAME: process.env.PACKNAME || "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️",
   WELCOME_MSG:
     process.env.WELCOME_MSG ||
-    "Hi @user Welcome to @gname",
-  GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
+    "هاي @user مرحبا بك في @gname",
+  GOODBYE_MSG: process.env.GOODBYE_MSG || "هاي @user نورت الجروب يحب♥✨",
   AUTHOR: process.env.AUTHOR || "X-electra",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
@@ -51,10 +51,10 @@ module.exports = {
           },
           logging: false,
         }),
-  SUDO: process.env.SUDO || "918113921898,919544951258",
+  SUDO: process.env.SUDO || "201098906252",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
-  OWNER_NAME: process.env.OWNER_NAME || "Neeraj-X0",
-  BOT_NAME: process.env.BOT_NAME || "X-asena",
+  OWNER_NAME: process.env.OWNER_NAME || "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤",
+  BOT_NAME: process.env.BOT_NAME || "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️",
   WORK_TYPE: process.env.WORK_TYPE || "public",
 };
